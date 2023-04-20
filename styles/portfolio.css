@@ -1,0 +1,30 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 84px;
+  letter-spacing: 0.1em;
+  text-align: center;
+  color: rgb(177, 100, 227);
+}
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  margin-top: 276px;
+  text-align: center;
+  color: rgb(249, 198, 242);
+}
+P {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: #4b4848;
+}
+body {
+  background-color: rgba(148, 124, 146, 0.666);
+}
