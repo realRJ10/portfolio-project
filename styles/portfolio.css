@@ -25,7 +25,12 @@ img {
   margin-top: 5px;
 }
 body {
-  background-color: #e4e3de;
+  background: rgb(230, 231, 225);
+  background: linear-gradient(
+    0deg,
+    rgba(230, 231, 225, 1) 29%,
+    rgba(228, 227, 222, 1) 30%
+  );
 }
 .paragraph-link {
   background-color: rgb(177, 100, 227);
@@ -54,4 +59,15 @@ body {
   width: 90%;
   max-width: 500px;
   height: auto;
+}
+.social-media {
+  text-align: center;
+}
+.fa-brands {
+  margin: 20px 10px;
+}
+@media (max-width: 767px) {
+  .hidden-mobile {
+    display: none;
+  }
 }
