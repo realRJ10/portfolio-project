@@ -32,6 +32,10 @@ body {
     rgba(228, 227, 222, 1) 30%
   );
 }
+.notepg {
+  background: #fdd8c4;
+  text-align: center;
+}
 .paragraph-link {
   background-color: rgb(177, 100, 227);
   padding: 5px 10px;
@@ -47,11 +51,16 @@ body {
   box-shadow: 2px 2px 10px rgb(227, 225, 228);
   transition: all 250ms ease-in-out;
 }
+.titles {
+  padding: 100px 0;
+  text-align: center;
+}
 .title {
   padding: 298px 0;
   text-align: center;
   background-color: rgba(148, 124, 146, 0.666);
 }
+
 .row {
   margin: 10px 20px;
 }
