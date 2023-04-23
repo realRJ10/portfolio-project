@@ -93,6 +93,12 @@ body {
 .fa-brands {
   margin: 20px 10px;
 }
+.euphoria {
+  border-radius: 500px;
+}
+.fav {
+  background: rgb(245, 220, 227);
+}
 @media (max-width: 500px) {
   h1 {
     font-size: 40px;
