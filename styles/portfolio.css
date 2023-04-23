@@ -39,6 +39,9 @@ body {
 .titles p {
   text-align: center;
 }
+.titles h1 {
+  color: #c92f43;
+}
 .notepg {
   background: #fdd8c4;
   text-align: center;
