@@ -20,6 +20,7 @@ P {
   font-weight: 400;
   font-size: 18px;
   color: #4b4848;
+  text-align: justify;
 }
 img {
   margin-top: 5px;
@@ -31,6 +32,12 @@ body {
     rgba(230, 231, 225, 1) 29%,
     rgba(228, 227, 222, 1) 30%
   );
+}
+.title p {
+  text-align: center;
+}
+.titles p {
+  text-align: center;
 }
 .notepg {
   background: #fdd8c4;
