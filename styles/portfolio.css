@@ -109,6 +109,9 @@ body {
   border-bottom-right-radius: 0.5rem;
   border-top-right-radius: 0.2rem 0.3rem;
 }
+.circle {
+  border-radius: 10px;
+}
 @media (max-width: 500px) {
   h1 {
     font-size: 40px;
