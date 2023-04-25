@@ -32,8 +32,8 @@ body {
   background: rgb(230, 231, 225);
   background: linear-gradient(
     0deg,
-    rgba(230, 231, 225, 1) 29%,
-    rgba(228, 227, 222, 1) 30%
+    rgba(230, 231, 225, 1) 30.5%,
+    rgba(228, 227, 222, 1) 31.5%
   );
 }
 .title p {
